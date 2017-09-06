@@ -1,5 +1,5 @@
 def saludar(nombre,saludo)
-  puts "Hola #{nombre}, que tengas #{saludo}"
+  puts "Hola #{nombre}, q ue tengas #{saludo}"
 end
 def suma(n1,n2)
   suma=n1+n2
